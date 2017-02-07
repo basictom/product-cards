@@ -11,6 +11,8 @@ article {
   border: 1px solid lightblue;
   width: 30%;
   margin: 10px;
+  position: relative;
+  float: left;
 }
 h2 {
   text-align:center;
@@ -26,6 +28,7 @@ h3 {
 .container {
   margin: 0 auto;
   width: 100%;
+  position: absolute;
 }
 .image {
   text-align:center;
