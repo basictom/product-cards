@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #565656;
+  font-weight: normal;
+}
+article {
+  border: 1px solid lightblue;
+  width: 30%;
+  margin: 10px;
+  position: relative;
+  float: left;
+}
+h2 {
+  text-align:center;
+  border: 1px dotted lightgrey;
+  font-size: 22px;
+  color: #111;
+  padding: 5px 10px;
+}
+h3 {
+  font-size: 20px;
+  padding: 5px 10px;
+}
+.container {
+  margin: 0 auto;
+  width: 100%;
+  position: absolute;
+}
+.image {
+  text-align:center;
+}
+.desc {
+  padding: 20px;
+  text-align: justify;
+}
+.avail {
+  padding: 10px;
+  background-color: darkgrey;
+  color: yellow;
+}
+.specs {
+  padding: 2px 25px;
+}
+.foot {
+  font-size: 10px;
+  font-weight: normal;
+}
+.price {
+  padding: 0px 25px;
+}
